@@ -1,2 +1,2 @@
-This is an easy project tha uses some of the html fundamentals
-it is simple, just to put it into some pratice
+This is an easy project tha uses some of the html fundamentals.
+It is simple, just to put it into some pratice
